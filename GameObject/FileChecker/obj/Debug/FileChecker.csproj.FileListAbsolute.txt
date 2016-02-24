@@ -1,0 +1,12 @@
+D:\Users\cme3058\Desktop\ScrubLordswc\GameObject\FileChecker\bin\Debug\FileChecker.exe.config
+D:\Users\cme3058\Desktop\ScrubLordswc\GameObject\FileChecker\bin\Debug\FileChecker.exe
+D:\Users\cme3058\Desktop\ScrubLordswc\GameObject\FileChecker\bin\Debug\FileChecker.pdb
+D:\Users\cme3058\Desktop\ScrubLordswc\GameObject\FileChecker\obj\Debug\FileChecker.csprojResolveAssemblyReference.cache
+D:\Users\cme3058\Desktop\ScrubLordswc\GameObject\FileChecker\obj\Debug\FileChecker.exe
+D:\Users\cme3058\Desktop\ScrubLordswc\GameObject\FileChecker\obj\Debug\FileChecker.pdb
+\\banner.main.ad.rit.edu\students\sxl9302\IGMProfile\Desktop\ScrubLordswc\ScrubLordswc\GameObject\FileChecker\bin\Debug\FileChecker.exe.config
+\\banner.main.ad.rit.edu\students\sxl9302\IGMProfile\Desktop\ScrubLordswc\ScrubLordswc\GameObject\FileChecker\bin\Debug\FileChecker.exe
+\\banner.main.ad.rit.edu\students\sxl9302\IGMProfile\Desktop\ScrubLordswc\ScrubLordswc\GameObject\FileChecker\bin\Debug\FileChecker.pdb
+\\banner.main.ad.rit.edu\students\sxl9302\IGMProfile\Desktop\ScrubLordswc\ScrubLordswc\GameObject\FileChecker\obj\Debug\FileChecker.csprojResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\sxl9302\IGMProfile\Desktop\ScrubLordswc\ScrubLordswc\GameObject\FileChecker\obj\Debug\FileChecker.exe
+\\banner.main.ad.rit.edu\students\sxl9302\IGMProfile\Desktop\ScrubLordswc\ScrubLordswc\GameObject\FileChecker\obj\Debug\FileChecker.pdb
